@@ -1,0 +1,15 @@
+C:/Users/TEHRAN/Desktop/sharif/fos/point/parking_logic.v {1 {vlog -work work C:/Users/TEHRAN/Desktop/sharif/fos/point/parking_logic.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module parking_logic
+
+Top level modules:
+	parking_logic
+
+} {} {}} C:/Users/TEHRAN/Desktop/sharif/fos/point/tb.v {1 {vlog -work work C:/Users/TEHRAN/Desktop/sharif/fos/point/tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}}
